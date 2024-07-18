@@ -1,0 +1,1 @@
+# serilog-circular-reference-handling
